@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kokkiligadda1998.github.io//sitemap.xml
+Sitemap: https://JennyLoCiganic.github.io//sitemap.xml
